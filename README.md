@@ -16,6 +16,12 @@
 
 The **Role-Based Access Control (RBAC) UI Dashboard** is a web application designed for task and user management with secure role-based access. The system includes an admin role that can manage users and tasks, while users have personalized task management capabilities. The dashboard is responsive and built using modern web development technologies.
 
+
+
+https://github.com/user-attachments/assets/9c4383a6-297e-4053-87df-a46edb285cbb
+
+
+
 ---
 
 ## Features
